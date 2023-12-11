@@ -4,7 +4,7 @@
 
 
 ### Deployed link
-click here (https://fairoz-advanced-quiz-app.netlify.app/)
+click here (https://advanced-quiz-app-psi.vercel.app/)
 
 ### 🚀 Technology Used
 React js

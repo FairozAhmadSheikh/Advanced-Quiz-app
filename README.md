@@ -65,7 +65,7 @@ Thank you for considering contributing to Quiz Platform! Contributions are encou
    ```bash
    git push origin feature/your-feature-name
 4. Create a pull request:
-   -Go to the original repository.
-   -Click on the "New Pull Request" button.
-   -Select your branch and provide a clear title and description for your changes.
-
+-Go to the original repository.
+-Click on the "New Pull Request" button.
+-Select your branch and provide a clear title and description for your changes.
+-Wait for your pull request to be reviewed and merged.

@@ -40,3 +40,5 @@ To run the Quiz Platform locally, follow these steps:
 - **Create A Quiz**:Navigate to the "Create Quiz" section and follow the intuitive steps to craft your quiz questions and answers.
 - **My Quizzes**:Visit the "My Quizzes" section to view and manage the quizzes you have created.
 - **Playing a Quiz**:Head to the "Play Quiz" section, select a quiz, answer the questions, and see your results instantly.
+ 
+## Screenshots

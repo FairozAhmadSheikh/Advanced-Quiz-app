@@ -64,6 +64,3 @@ Thank you for considering contributing to Quiz Platform! Contributions are encou
 3. Push your changes to the forked repository:
   ```bash
    git push origin feature/your-feature-name
-
-4. Create a pull request
-5. Wait for your pull request to be reviewed and merged.

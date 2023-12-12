@@ -12,6 +12,7 @@ Welcome to Quiz Platform, a dynamic and interactive application built with React
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
+- [Contribution Guidelines](#contribution-guidelines)
 
 ## Features
 - **Create Quiz**: Easily create your own quizzes with a user-friendly interface.
@@ -45,3 +46,39 @@ To run the Quiz Platform locally, follow these steps:
 ![Screenshot 2023-12-11 092436](https://github.com/FairozAhmadSheikh/Advanced-Quiz-app/assets/134375617/366c27e0-8ee9-469c-800d-01545f575ec9)
 ![Screenshot 2023-12-11 092518](https://github.com/FairozAhmadSheikh/Advanced-Quiz-app/assets/134375617/4c41964d-7839-49f8-84f2-75fde0e1c603)
 ![Screenshot 2023-12-11 092559](https://github.com/FairozAhmadSheikh/Advanced-Quiz-app/assets/134375617/280a0141-ccb0-435e-9293-00858e7fefd3)
+## Contributing
+
+Thank you for considering contributing to Quiz Platform! Contributions are encouraged and welcome. To contribute, please follow these steps:
+
+1. Fork the repository and create your branch:
+
+   ```bash
+   git clone https://github.com/FairozAhmadSheikh/Advanced-Quiz-app.git
+   cd Advanced-Quiz-app
+   git checkout -b feature/your-feature-name
+   
+2. Make your changes and commit them:
+   ```bash 
+   git add .
+   git commit -m "Add your meaningful commit message"
+
+3. Push your changes to the forked repository:
+  ```bash
+  git push origin feature/your-feature-name
+
+4. Create a pull request:
+
+- Go to the original repository.
+- Click on the "New Pull Request" button.
+- Select your branch and provide a clear title and description for your changes.
+
+5. Wait for your pull request to be reviewed and merged.
+
+## Contribution Guidelines:
+-Before starting your work, ensure that an issue related to your contribution exists. If not, create one.
+-Follow the coding style and conventions used in the project.
+-Write clear commit messages and comment your code where necessary.
+-Make sure your changes do not introduce new issues.
+-Be responsive to feedback and comments on your pull request.
+
+Thank you for your contribution!

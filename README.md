@@ -33,3 +33,10 @@ To run the Quiz Platform locally, follow these steps:
    ```bash
    git clone https://github.com/FairozAhmadSheikh/Advanced-Quiz-app.git
    cd Advanced-Quiz-app
+## Usage
+- **Install dependencies**:npm install
+- **Run the application**:npm start
+- **Open Browser**:- Open your browser and navigate to http://localhost:3000 to view the application.
+- **Create A Quiz**:Navigate to the "Create Quiz" section and follow the intuitive steps to craft your quiz questions and answers.
+- **My Quizzes**:Visit the "My Quizzes" section to view and manage the quizzes you have created.
+- **Playing a Quiz**:Head to the "Play Quiz" section, select a quiz, answer the questions, and see your results instantly.

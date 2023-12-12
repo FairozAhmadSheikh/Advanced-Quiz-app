@@ -60,15 +60,15 @@ Thank you for considering contributing to Quiz Platform! Contributions are encou
    ```bash 
    git add .
    git commit -m "Add your meaningful commit message"
-
+   
 3. Push your changes to the forked repository:
   ```bash
-  git push origin feature/your-feature-name
+   git push origin feature/your-feature-name
 
 4. Create a pull request:
    ```bash
-- Go to the original repository.
-- Click on the "New Pull Request" button.
-- Select your branch and provide a clear title and description for your changes.
+   - Go to the original repository.
+   - Click on the "New Pull Request" button.
+   - Select your branch and provide a clear title and description for your changes.
 
 5. Wait for your pull request to be reviewed and merged.

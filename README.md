@@ -52,12 +52,10 @@ To run the Quiz Platform locally, follow these steps:
 🚀 Playing a Quiz:  Head to the "Play Quiz" section, select a quiz, answer the questions, and see your results instantly.
 
 ### 📸 Screenshots of the application
+![Screenshot 2023-12-11 092436](https://github.com/FairozAhmadSheikh/Advanced-Quiz-app/assets/134375617/229e9c36-3d7a-4a34-9888-172687c56521)
+![Screenshot 2023-12-11 092518](https://github.com/FairozAhmadSheikh/Advanced-Quiz-app/assets/134375617/ba592f7f-536c-4875-9d9b-a6e295ae1b83)
+![Screenshot 2023-12-11 092559](https://github.com/FairozAhmadSheikh/Advanced-Quiz-app/assets/134375617/433c003c-2837-40b8-ad0e-84bddc846773)
 
-![Screenshot 2023-12-11 092436](https://github.com/FairozAhmadSheikh/Advanced-Quiz-app/assets/134375617/f1f8b07c-b1a9-4da1-9c0a-1b09d2245d2f)
-
-![Screenshot 2023-12-11 092559](https://github.com/FairozAhmadSheikh/Advanced-Quiz-app/assets/134375617/7638b45a-da9f-488d-a196-deb616110786)
-
-![Screenshot 2023-12-11 092518](https://github.com/FairozAhmadSheikh/Advanced-Quiz-app/assets/134375617/53997741-95f8-4ae1-8504-68dd2165b83c)
 
 ## Contributing
 

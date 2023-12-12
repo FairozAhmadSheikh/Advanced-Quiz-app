@@ -12,7 +12,6 @@ Welcome to Quiz Platform, a dynamic and interactive application built with React
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [Contribution Guidelines](#Contribution-Guidelines)
 
 ## Features
 - **Create Quiz**: Easily create your own quizzes with a user-friendly interface.
@@ -67,18 +66,9 @@ Thank you for considering contributing to Quiz Platform! Contributions are encou
   git push origin feature/your-feature-name
 
 4. Create a pull request:
-
+   ```bash
 - Go to the original repository.
 - Click on the "New Pull Request" button.
 - Select your branch and provide a clear title and description for your changes.
 
 5. Wait for your pull request to be reviewed and merged.
-
-## Contribution Guidelines:
--Before starting your work, ensure that an issue related to your contribution exists. If not, create one.
--Follow the coding style and conventions used in the project.
--Write clear commit messages and comment your code where necessary.
--Make sure your changes do not introduce new issues.
--Be responsive to feedback and comments on your pull request.
-
-Thank you for your contribution!

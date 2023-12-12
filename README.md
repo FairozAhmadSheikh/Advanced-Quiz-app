@@ -12,7 +12,7 @@ Welcome to Quiz Platform, a dynamic and interactive application built with React
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [Contribution Guidelines](#contribution-guidelines)
+- [Contribution Guidelines](#Contribution-Guidelines)
 
 ## Features
 - **Create Quiz**: Easily create your own quizzes with a user-friendly interface.
